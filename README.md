@@ -28,7 +28,7 @@ I appreciate your understanding and cooperation.
 
 If you anticipate sending a large number of requests, it is recommended that you deploy your own Cloudflare worker. Installation is pretty easy and straight forward. Click the button below to get started.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=[https://github.com/tuhinpal/imdb-api](https://github.com/The-RJ-Studios/Imdb-api-Fecher))
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=[https://github.com/The-RJ-Studios/Imdb-api-Fecher](https://github.com/The-RJ-Studios/Imdb-api-Fecher))
 
 After deployed, map the worker to a Domain Name to configure cache. Only Workers deployed to custom domains have access to functional cache operations.
 
